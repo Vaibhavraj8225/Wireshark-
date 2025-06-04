@@ -53,7 +53,7 @@ ________________________________________
 •	DNS queries occurred when browsing or accessing websites.
 •	TCP traffic was observed during browser activities.
 Sample Packet Details (ICMP)
-•	Source IP: 192.168.1.x (local machine)
+•	Source IP: 192.168.0.0 (local machine)
 •	Destination IP: 8.8.8.8
 •	Type: Echo (ping) request and reply
 •	Size: ~74 bytes per ICMP packet
